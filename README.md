@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Arsham
+An electrical engineer with a background in control systems and a passion for embedded systems. I focus on circuit and PCB design, working with both 8-bit AVR microcontrollers (using Arduino and CodeVision AVR) and 32-bit STM32 devices.
 
+Currently, I contribute my expertise to the R&D department at Safety Parts Manufacturing Co. (SPM), a division of IKCo, where we’re pushing the boundaries of car audio systems. When I'm off the clock, I love exploring new trends in electronics on YouTube and even diving into the basics of AI.
+
+Let’s innovate together and explore the future of technology!
 <!--
 **ArshamSh/ArshamSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
